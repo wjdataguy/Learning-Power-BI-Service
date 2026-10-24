@@ -1,0 +1,11 @@
+OrderDate,Region,Product,Units,Revenue
+2026-01-05,West,Laptop,4,4800.00
+2026-01-08,East,Monitor,10,2500.00
+2026-01-12,North,Keyboard,25,1250.00
+2026-01-15,South,Laptop,3,3600.00
+2026-01-19,West,Mouse,40,800.00
+2026-01-22,East,Laptop,5,6000.00
+2026-01-26,North,Monitor,8,2000.00
+2026-01-29,South,Keyboard,15,750.00
+2026-02-02,West,Monitor,6,1500.00
+2026-02-05,East,Mouse,30,600.00
